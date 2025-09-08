@@ -14,3 +14,4 @@
 4. Haz commit de tus cambios
 5. Fusiona tu rama con la principal
 \n## Característica en Desarrollo\n\nEstamos trabajando en una nueva característica en una rama separada.
+\n## Cambio en rama conflicto-ejemplo\n\nEste cambio causará un conflicto.
